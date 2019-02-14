@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\klsla\source\repos\solution1\exercise1\main.cpp(58): error C2446: '==': no conversion from 'const char *' to 'int'
+  c:\users\klsla\source\repos\solution1\exercise1\main.cpp(58): note: There is no context in which this conversion is possible
+c:\users\klsla\source\repos\solution1\exercise1\main.cpp(62): error C3861: 'shiftRightValuve': identifier not found
+c:\users\klsla\source\repos\solution1\exercise1\main.cpp(66): error C3861: 'shiftLeftValue': identifier not found
+c:\users\klsla\source\repos\solution1\exercise1\main.cpp(100): error C2064: term does not evaluate to a function taking 0 arguments
